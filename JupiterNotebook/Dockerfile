@@ -1,6 +1,4 @@
-
 # Use a base image with Python and Jupyter pre-installed
-# Using LABEL for metadata
 FROM jupyter/base-notebook:2023-10-02
 # Using LABEL for metadata
 LABEL maintainer="Cristobal Gonzalez <cristobal@cristobal-lab.net>"
